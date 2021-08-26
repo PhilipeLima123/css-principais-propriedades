@@ -1,0 +1,111 @@
+#folha{
+    background-color: #FFFFFF ;
+    position: absolute;
+    width: 600px;
+    height: auto;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    margin: 10px;
+    left: 30px;
+    background-color: brown;
+}
+
+body{
+    background-color: darkgray;
+}
+#ingre{
+    font-family: 'Rampart One', cursive;
+    font-size: 40px;
+    text-align: center;
+    width: 400px;
+    border-style: inset;
+    border-color: antiquewhite;
+    margin: auto;
+    letter-spacing: 1.3em;
+    text-transform: uppercase;
+}
+
+#ul{
+    font-family: 'Pacifico', cursive;
+    font-size: 19px;
+    text-align: justify;
+    width: 400px;
+    letter-spacing: 1.3em;
+    text-transform: uppercase;
+}
+
+#part2{
+    background-color: #FFFFFF ;
+    position: absolute;
+    width: 600px;
+    height: auto;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    margin: 10px;
+    left: 30px;
+    background-color:firebrick;
+    left: 660px;
+    
+}
+
+#MP{
+    font-family: 'Rampart One', cursive;
+    font-size: 40px;
+    text-align: center;
+    width: 400px;
+    border-style: inset;
+    border-color: antiquewhite;
+    margin: auto;
+    letter-spacing: 1.3em;
+    text-transform: uppercase;
+}
+}
+
+#massa, #reche, #mon{
+    font-family: 'Rampart One', cursive;
+    font-size: 20px;
+    text-align: justify;
+    width: 400px;
+   color: ghostwhite;
+    margin: auto;
+    letter-spacing: 1.3em;
+    text-transform: uppercase;
+}
+
+
+#ol, #ol2, #final{
+    font-family: 'Pacifico', cursive;
+    font-size: 19px;
+    text-align: justify;
+    width: 400px;
+    letter-spacing: 1.3em;
+    text-transform: uppercase;
+}
+    
+
+
+
+
+img{
+    margin: 60px;
+    width: 400px;
+    padding: 0;
+    border-radius: 50% 10px;
+}
+
+
+footer{
+    text-align: justify;
+    position: fixed;
+    bottom: 300px;
+    flex-shrink: 0;
+    padding: 30px;
+    top: 80%;
+    font-weight: bold;
+}
+
+
+
+
